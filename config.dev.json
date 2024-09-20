@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "createdeno61@gmail.com",
+    "password": "orochimaru",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,14 +16,14 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100090405019929"],
+  "adminBot": ["100080355760429"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "웃➣『𝐒𝐇𝐈𝐒𝐔𝐈』ツ",
-  "prefix": "#",
+  "nickNameBot": "웃➣『𝐁𝐋𝐀𝐙𝐄』ツ",
+  "prefix": "π",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
